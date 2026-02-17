@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     padding: 0px;
     margin: 0px;
@@ -104,6 +104,7 @@ body{
     border-radius: 2%
     
 }
+
 .recommented{
     padding: 10px;
 }
@@ -160,125 +161,3 @@ body{
     margin: 20px;
     align-items: center;
 }
-=======
-*{
-    padding: 0px;
-    margin: 0px;
-}
-body{
-     font-family: "Gabarito", sans-serif;
-}
-.navbar{
-    display: flex;
-    justify-content: space-between;
-    border-bottom: 1px solid black;
-    align-items: center;
-    gap: 10px;
-}
-.navbar_s1{
-    padding: 10px;
-
-}
-.navbar_s1 h1{
-    color:#9C3DD9 ;
-}
-.navbar_s2{
-    border: 1px solid black;
-    width: 60%;
-    border-radius: 50px;
-    padding: 10px;
-    display: flex;
-    gap: 10px;
-}
-.navbar_s2 input{
-    width: 100%;
-    border: none;
-    font-size: 16px;
-}
-.navbar_s2 input:focus{
-    outline: none;
-
-}
-.navbar_s3{
-    display: flex;
-    gap:10px;
-    padding: 10px;
-    align-items: center;
-}
-.catagories{
-    display: flex;
-    padding: 10px;
-    justify-content: space-around;
-    border-bottom: 1px solid black;
-}
-.catagories p{
-    background-color: #9C3DD9;
-    padding: 10px;
-    border-radius: 30px;
-}
-.catagories p:hover{
-    background-color: #C2E9EB;
-    transition: 1s;
-
-}
-.salee-img img{
-    width: 100%;
-       
-}
-.recommented{
-    padding: 10px;
-}
-
-.rec__container{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
-    flex-wrap: wrap;
-
-}
-.rec__card{
-    width: 300px;
-}
-.rec__card img{
-    width: 100%;;
-    height: 50%;
-}
-.topics{
-    padding: 10px;
-}
-.topics__container{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-
-}
-.topics__container p{
-   
-    padding: 10px;
-    border: 2px solid gray;
-    flex-grow: 1;
-    flex-basis: 25%;
-
-}
-.popular{
-    padding: 10px;
-}
-.footer{
-    padding: 30px;
-    background-color: black;
-    color: white;
-}
-.footer__one p{
-    margin: 20px;
-}
-.footer__one{
-    display: flex;
-    gap: 20px;
-}
-.footer__two{
-    display: flex;
-    justify-content: space-between;
-    margin: 20px;
-    align-items: center;
-}
->>>>>>> 47da7c52dd82753a7580d019ada1f002cf43fb6f
