@@ -121,6 +121,7 @@ body{
     animation-name: zoom;
     animation-duration: 2s;
     animation-fill-mode: forwards;
+    flex-basis: 20%;
     
 }
 @keyframes zoom{
