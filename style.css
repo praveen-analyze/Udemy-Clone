@@ -237,3 +237,21 @@ body{
     
     }
     
+@media (max-width: 600px) {
+
+    .sale-image__popup {
+        width: 35%;
+        
+        top: 15%;
+        
+        padding: 5px;
+    }
+
+    .sale-image__popup h1 {
+        font-size: 10px;
+    }
+
+    .sale-image__popup p {
+        font-size: 8px;
+    }
+}
